@@ -1,4 +1,4 @@
-# tima_bot
+# tima
 Date:   27.05.2020 2:00
 
 Author: homaander
