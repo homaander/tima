@@ -1,0 +1,89 @@
+{
+  "allowHttpBackend": false,
+  "backendCommand": "node index",
+  "backendFolderName": "C:\\dev\\twitch\\tima",
+  "certificateExceptions": [],
+  "extensionViews": [
+    {
+      "id": "1",
+      "label": "",
+      "channelId": "154285463",
+      "configurationAnchor": "panel",
+      "displayChannelName": "homaander",
+      "type": "panel",
+      "features": {
+        "isBitsEnabled": false,
+        "isChatEnabled": false,
+        "isSubscriptionStatusAvailable": false
+      },
+      "linked": false,
+      "linkedUserId": "",
+      "mode": "viewer",
+      "isPopout": false,
+      "role": "Broadcaster",
+      "orientation": "Portrait",
+      "frameSize": {
+        "width": 1280,
+        "height": 720
+      }
+    }
+  ],
+  "frontendCommand": "",
+  "frontendFolderName": "",
+  "manifest": {
+    "anchor": "panel",
+    "assetUrls": [],
+    "authorName": "homaander",
+    "bitsEnabled": false,
+    "canInstall": true,
+    "configUrl": "http://localhost:8080/config.html",
+    "configurationLocation": "none",
+    "description": "Приложение, которое может развлечь при просмотре стрима, различным образом взаимодействуя с другими участниками стрима\nПриложение даёт возможность:\n  - Открывать кейсы\n  - Вызывать на дуэли участников чата",
+    "eulaTosUrl": "",
+    "hasChatSupport": false,
+    "iconUrl": "https://extensions-discovery-images.twitch.tv/8l5alis3rzpznt3bsqy28ki54byblh/0.0.1/logo4e8e18ba-9b6b-4a80-9f10-bb48e3c2fbab",
+    "iconUrls": {
+      "100x100": "https://extensions-discovery-images.twitch.tv/8l5alis3rzpznt3bsqy28ki54byblh/0.0.1/logo4e8e18ba-9b6b-4a80-9f10-bb48e3c2fbab"
+    },
+    "id": "8l5alis3rzpznt3bsqy28ki54byblh",
+    "installationCount": -42,
+    "liveConfigUrl": "http://localhost:8080/admin.html",
+    "name": "TimaUI",
+    "panelHeight": 300,
+    "privacyPolicyUrl": "",
+    "requestIdentityLink": false,
+    "requiredBroadcasterAbilities": [],
+    "screenshotUrls": [],
+    "sku": "",
+    "state": "Testing",
+    "subscriptionsSupportLevel": "none",
+    "summary": "Приложение для управления ресурсами на канале yueshh",
+    "supportEmail": "hom.ander23@gmail.com",
+    "vendorCode": "",
+    "version": "0.0.1",
+    "viewerSummary": "",
+    "viewerUrl": "http://localhost:8080/index.html",
+    "viewerUrls": {
+      "panel": "http://localhost:8080/index.html"
+    },
+    "views": {
+      "config": {
+        "canLinkExternalContent": false,
+        "viewerUrl": "http://localhost:8080/config.html"
+      },
+      "liveConfig": {
+        "canLinkExternalContent": false,
+        "viewerUrl": "http://localhost:8080/admin.html"
+      },
+      "panel": {
+        "canLinkExternalContent": false,
+        "height": 300,
+        "viewerUrl": "http://localhost:8080/index.html"
+      }
+    },
+    "whitelistedConfigUrls": [],
+    "whitelistedPanelUrls": []
+  },
+  "name": "TimaUI",
+  "version": 1
+}
